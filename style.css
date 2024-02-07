@@ -1,0 +1,50 @@
+.menu {
+	margin: 4% 10%;
+}
+
+.menu h2 {
+	text-align: center;
+	letter-spacing: 5px;
+	margin-bottom: 4%;
+}
+
+.menu img {
+	height: 400px;
+}
+.about {
+	margin: 4%;
+}
+.about .card {
+	margin: 4% 16%;
+	width: 70%;
+}
+
+.about h2 {
+	text-align: center;
+	letter-spacing: 5px;
+}
+
+/* section contact */
+
+.contact {
+	margin: 4% 10%;
+}
+
+.contact h2 {
+	text-align: center;
+	letter-spacing: 5px;
+	margin-bottom: 4%;
+}
+
+.forms {
+	background-color: gray;
+	padding: 3%;
+	border-radius: 10px;
+}
+
+.footer {
+	background-color: rgb(182, 181, 181);
+	color: #fff;
+	text-align: center;
+	padding: 3%;
+}
